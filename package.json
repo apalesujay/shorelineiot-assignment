@@ -1,0 +1,24 @@
+{
+  "name": "shorelineiot-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apalesujay/shorelineiot-assignment.git"
+  },
+  "author": "Sujay Apale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/apalesujay/shorelineiot-assignment/issues"
+  },
+  "homepage": "https://github.com/apalesujay/shorelineiot-assignment#readme",
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "mqtt": "^4.2.6"
+  }
+}
